@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.EntityFrameworkCore;
 using MiPresupuestoApp.Models;
 
 namespace MiPresupuestoApp.Data
@@ -46,10 +43,6 @@ namespace MiPresupuestoApp.Data
                     .IsUnicode(false);
 
                 entity.Property(e => e.Nombre)
-                    .HasMaxLength(100)
-                    .IsUnicode(false);
-
-                entity.Property(e => e.Pass)
                     .HasMaxLength(100)
                     .IsUnicode(false);
             });

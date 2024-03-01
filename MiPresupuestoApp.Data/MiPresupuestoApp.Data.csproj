@@ -14,4 +14,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MiPresupuestoApp.Models\MiPresupuestoApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>

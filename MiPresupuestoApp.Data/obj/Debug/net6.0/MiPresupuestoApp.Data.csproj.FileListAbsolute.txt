@@ -12,3 +12,6 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\n
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.pdb
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\ref\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Models.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.csproj.CopyComplete

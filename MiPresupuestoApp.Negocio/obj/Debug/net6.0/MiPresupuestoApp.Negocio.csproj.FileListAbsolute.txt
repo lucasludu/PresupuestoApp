@@ -9,3 +9,9 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debu
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debug\net6.0\refint\MiPresupuestoApp.Negocio.dll
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debug\net6.0\MiPresupuestoApp.Negocio.pdb
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debug\net6.0\ref\MiPresupuestoApp.Negocio.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\bin\Debug\net6.0\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\bin\Debug\net6.0\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\bin\Debug\net6.0\MiPresupuestoApp.Data.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\bin\Debug\net6.0\MiPresupuestoApp.Models.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debug\net6.0\MiPresupuestoApp.Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Negocio\obj\Debug\net6.0\MiPresupuestoApp.Negocio.csproj.CopyComplete

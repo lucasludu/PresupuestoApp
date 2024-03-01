@@ -66,3 +66,9 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\obj\Debug\ne
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\obj\Debug\net6.0\MiPresupuestoApp.Api.pdb
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\obj\Debug\net6.0\MiPresupuestoApp.Api.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\obj\Debug\net6.0\ref\MiPresupuestoApp.Api.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Negocio.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Negocio.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Data.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Models.pdb
