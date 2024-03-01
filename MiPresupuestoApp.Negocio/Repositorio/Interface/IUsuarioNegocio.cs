@@ -1,6 +1,6 @@
 ﻿using MiPresupuestoApp.Models;
 
-namespace MiPresupuestoApp.Negocio.Interface
+namespace MiPresupuestoApp.Negocio.Repositorio.Interface
 {
     public interface IUsuarioNegocio : IGenericNegocio<Usuario>
     {

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tJ9q36V1ijyrwugXwxZWQseNHfBMLOE4077MzKtEiSQnrC/5naIdOI1/Dfcs7NY58w4psHGN4V0d0HaOxC7qpw==",
+  "dgSpecHash": "l6RY357AFiL1JzL8Bw1K5NyDLRKxbKYYc0Eq6D5vrqNAUoFeBSgQMe11QYODz7D+qO9SO9MRtR7W+SqSgbIogg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\MiPresupuestoApp\\MiPresupuestoApp.Models\\MiPresupuestoApp.Models.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.27\\microsoft.entityframeworkcore.6.0.27.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.27\\microsoft.entityframeworkcore.abstractions.6.0.27.nupkg.sha512",

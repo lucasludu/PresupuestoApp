@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace MiPresupuestoApp.Negocio.Interface
+namespace MiPresupuestoApp.Negocio.Repositorio.Interface
 {
     public interface IGenericNegocio<T> where T : class
     {

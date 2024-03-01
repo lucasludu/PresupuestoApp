@@ -11,3 +11,4 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\ref\MiPresupuestoApp.Models.dll
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\bin\Debug\net6.0\MiPresupuestoApp.Models.runtimeconfig.json
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.csproj.AssemblyReference.cache

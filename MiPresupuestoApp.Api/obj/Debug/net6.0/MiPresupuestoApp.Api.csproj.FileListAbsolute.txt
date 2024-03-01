@@ -72,3 +72,7 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\ne
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Negocio.pdb
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Data.pdb
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Models.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll

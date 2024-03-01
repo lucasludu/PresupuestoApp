@@ -1,8 +1,8 @@
 ﻿using MiPresupuestoApp.Data;
-using MiPresupuestoApp.Negocio.Interface;
+using MiPresupuestoApp.Negocio.Repositorio.Interface;
 using System.Linq.Expressions;
 
-namespace MiPresupuestoApp.Negocio
+namespace MiPresupuestoApp.Negocio.Repositorio
 {
     public class GenericNegocio<T> : IGenericNegocio<T> where T : class
     {
@@ -43,19 +43,19 @@ namespace MiPresupuestoApp.Negocio
         public bool Insert(T model)
         {
             _context.Set<T>().Add(model);
-            return this.Save();
+            return Save();
         }
 
         public bool Update(T model)
         {
             _context.Set<T>().Update(model);
-            return this.Save();
+            return Save();
         }
-        
+
         public bool Delete(T model)
         {
             _context.Set<T>().Remove(model);
-            return this.Save();
+            return Save();
         }
 
     }

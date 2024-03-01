@@ -1,14 +1,14 @@
 ﻿using MiPresupuestoApp.Data;
 using MiPresupuestoApp.Models;
-using MiPresupuestoApp.Negocio.Interface;
+using MiPresupuestoApp.Negocio.Repositorio.Interface;
 
-namespace MiPresupuestoApp.Negocio
+namespace MiPresupuestoApp.Negocio.Repositorio
 {
     public class UsuarioNegocio : GenericNegocio<Usuario>, IUsuarioNegocio
     {
-        public UsuarioNegocio(Context context) : base(context) 
+        public UsuarioNegocio(Context context) : base(context)
         {
-            
+
         }
     }
 }
