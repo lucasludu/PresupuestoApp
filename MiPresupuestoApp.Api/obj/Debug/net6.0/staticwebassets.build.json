@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "baqNlA/9MIFG83N4weNsGa8zyt9jGat7CWiKDmXooQc=",
+  "Source": "MiPresupuestoApp.Api",
+  "BasePath": "_content/MiPresupuestoApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

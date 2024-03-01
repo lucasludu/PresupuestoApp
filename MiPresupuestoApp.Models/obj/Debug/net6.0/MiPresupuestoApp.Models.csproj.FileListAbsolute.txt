@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\bin\Debug\net6.0\MiPresupuestoApp.Models.deps.json
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\bin\Debug\net6.0\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\bin\Debug\net6.0\MiPresupuestoApp.Models.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\refint\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\ref\MiPresupuestoApp.Models.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\bin\Debug\net6.0\MiPresupuestoApp.Models.runtimeconfig.json
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Models\obj\Debug\net6.0\MiPresupuestoApp.Models.genruntimeconfig.cache

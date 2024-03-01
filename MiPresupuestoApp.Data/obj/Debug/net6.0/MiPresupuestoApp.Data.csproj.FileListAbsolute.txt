@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Data.deps.json
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\bin\Debug\net6.0\MiPresupuestoApp.Data.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\refint\MiPresupuestoApp.Data.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.pdb
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\MiPresupuestoApp.Data.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Data\obj\Debug\net6.0\ref\MiPresupuestoApp.Data.dll
