@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MiPresupuestoApp.Api</name>
+    </assembly>
+    <members>
+        <member name="T:MiPresupuestoApp.Api.Controllers.AuthController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.AuthController._unitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.AuthController._service">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.AuthController._mapper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.AuthController.#ctor(MiPresupuestoApp.Negocio.UOW.Interface.IUnitOfWork,MiPresupuestoApp.Api.Services.Interface.IUsuarioUtil,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="unitOfWork"></param>
+            <param name="service"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.AuthController.Register(MiPresupuestoApp.Models.DTO.UserRegisterDto)">
+            <summary>
+            Registro de usuario
+            </summary>
+            <param name="userRegisterDto"></param>
+            <returns>Datos del usuario (sin password)</returns>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.AuthController.Login(MiPresupuestoApp.Models.DTO.UserLoginDto)">
+            <summary>
+            Loguea el usuario
+            </summary>
+            <param name="userLoginDto"></param>
+            <returns>TOKEN</returns>
+        </member>
+        <member name="T:MiPresupuestoApp.Api.Controllers.UsuarioController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.UsuarioController._unitOfWork">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.UsuarioController._service">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MiPresupuestoApp.Api.Controllers.UsuarioController._mapper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.UsuarioController.#ctor(MiPresupuestoApp.Negocio.UOW.Interface.IUnitOfWork,MiPresupuestoApp.Api.Services.Interface.IUsuarioUtil,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="unitOfWork"></param>
+            <param name="service"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.UsuarioController.Get(System.String)">
+            <summary>
+            Busca el usuario por CORREO
+            </summary>
+            <param name="correo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.UsuarioController.Delete(System.String)">
+            <summary>
+            Elimina el usuario buscando por Correo
+            </summary>
+            <param name="correo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MiPresupuestoApp.Api.Controllers.UsuarioController.Update(System.String,MiPresupuestoApp.Models.DTO.UserUpdateDto)">
+            <summary>
+            Modifica el usuario segun correo a buscar
+            </summary>
+            <param name="correo"></param>
+            <param name="userDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

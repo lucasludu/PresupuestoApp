@@ -9,6 +9,7 @@ namespace MiPresupuestoApp.Models.Mapper
         {
             CreateMap<Usuario, UserDto>().ReverseMap();
             CreateMap<Usuario, UserRegisterDto>().ReverseMap();
+            CreateMap<Usuario, UserUpdateDto>().ReverseMap();
             CreateMap<Usuario, UserLoginDto>().ReverseMap();
         }
     }

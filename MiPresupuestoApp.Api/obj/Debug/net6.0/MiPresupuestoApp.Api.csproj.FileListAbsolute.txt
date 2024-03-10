@@ -76,3 +76,6 @@ C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\ne
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\bin\Debug\net6.0\MiPresupuestoApp.Api.xml
+C:\Users\Usuario\source\repos\MiPresupuestoApp\MiPresupuestoApp.Api\obj\Debug\net6.0\MiPresupuestoApp.Api.xml

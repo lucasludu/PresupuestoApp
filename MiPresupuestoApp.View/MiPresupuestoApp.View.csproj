@@ -8,4 +8,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="6.0.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiPresupuestoApp.Models\MiPresupuestoApp.Models.csproj" />
+    <ProjectReference Include="..\MiPresupuestoApp.Negocio\MiPresupuestoApp.Negocio.csproj" />
+  </ItemGroup>
+
 </Project>
